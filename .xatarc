@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Janssen-Radh-Yumang-s-workspace-rmtulb.us-east-1.xata.sh/db/jeux",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
